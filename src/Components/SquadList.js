@@ -5,7 +5,7 @@ import { GiBaseballBat } from "react-icons/gi";
 import { FaBaseballBall } from "react-icons/fa";
 import { MdSportsCricket } from "react-icons/md";
 
-class Characters extends Component {
+class SquadList extends Component {
   render() {
     return (
       <div>
@@ -51,4 +51,4 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(Characters);
+export default connect(mapStateToProps, mapDispatchToProps)(SquadList);

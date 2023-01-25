@@ -1,8 +1,8 @@
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 import React, { Component } from "react";
-import Characters from "./Characters";
-import Heroes from "./Heroes";
-import TeamXI from "./TeamXI";
+import SquadList from "./SquadList";
+import PlayingXI from "./PlayingXI";
+import TeamStats from "./TeamStats";
 
 class App extends Component {
   render() {
@@ -11,13 +11,13 @@ class App extends Component {
         <h3>Team Selection</h3>
         <div className="row mt-4">
           <div className="col-md-4">
-            <Characters />
+            <SquadList />
           </div>
           <div className="col-md-4">
-            <Heroes />
+            <PlayingXI />
           </div>
           <div className="col-md-4">
-            <TeamXI />
+            <TeamStats />
           </div>
         </div>
       </div>

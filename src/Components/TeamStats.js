@@ -1,7 +1,7 @@
 import { Component } from "react";
 import { connect } from "react-redux";
 
-class TeamXI extends Component {
+class TeamStats extends Component {
   bat = () => {
     let bat = 0;
     this.props.heroes.forEach((item) => {
@@ -46,4 +46,4 @@ const mapStateToProps = (state) => {
   };
 };
 
-export default connect(mapStateToProps, null)(TeamXI);
+export default connect(mapStateToProps, null)(TeamStats);
