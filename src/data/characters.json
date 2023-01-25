@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "KL Rahul",
+    "skill": 78,
+    "technique": 70,
+    "type": "Bat"
+  },
+  {
+    "id": 1,
+    "name": "Rohit Sharma",
+    "skill": 87,
+    "technique": 77,
+    "type": "Bat"
+  },
+  {
+    "id": 2,
+    "name": "Virat Kohli",
+    "skill": 89,
+    "technique": 79,
+    "type": "Bat"
+  },
+  {
+    "id": 3,
+    "name": "Surya Kumar Yadav",
+    "skill": 80,
+    "technique": 71,
+    "type": "Bat"
+  },
+  {
+    "id": 4,
+    "name": "Ishan Kishan",
+    "skill": 75,
+    "technique": 69,
+    "type": "Bat"
+  },
+  {
+    "id": 5,
+    "name": "Shreyas Iyer",
+    "skill": 71,
+    "technique": 65,
+    "type": "Bat"
+  },
+  {
+    "id": 6,
+    "name": "Sanju Samoson",
+    "skill": 76,
+    "technique": 65,
+    "type": "Bat"
+  },
+  {
+    "id": 7,
+    "name": "Dinesh Karthik",
+    "skill": 75,
+    "technique": 69,
+    "type": "Bat"
+  },
+  {
+    "id": 8,
+    "name": "Hardik Pandya",
+    "skill": 82,
+    "technique": 70,
+    "type": "All"
+  },
+  {
+    "id": 9,
+    "name": "Ravindra Jadeja",
+    "skill": 75,
+    "technique": 77,
+    "type": "All"
+  },
+  {
+    "id": 10,
+    "name": "R Ashwin",
+    "skill": 62,
+    "technique": 65,
+    "type": "All"
+  },
+  {
+    "id": 11,
+    "name": "Axar Patel",
+    "skill": 63,
+    "technique": 65,
+    "type": "All"
+  },
+  {
+    "id": 12,
+    "name": "Bhuvaneshwar Kumar",
+    "skill": 72,
+    "technique": 72,
+    "type": "Bowl"
+  },
+  {
+    "id": 13,
+    "name": "Arshdeep Singh",
+    "skill": 55,
+    "technique": 70,
+    "type": "Bowl"
+  },
+  {
+    "id": 14,
+    "name": "Y Chahal",
+    "skill": 70,
+    "technique": 72,
+    "type": "Bowl"
+  },
+  {
+    "id": 15,
+    "name": "Jasprit Bumrah",
+    "skill": 85,
+    "technique": 75,
+    "type": "Bowl"
+  },
+  {
+    "id": 16,
+    "name": "M Siraj",
+    "skill": 70,
+    "technique": 70,
+    "type": "Bowl"
+  },
+  {
+    "id": 17,
+    "name": "M Shami",
+    "skill": 75,
+    "technique": 75,
+    "type": "Bowl"
+  }
+]
